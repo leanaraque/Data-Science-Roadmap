@@ -20,14 +20,19 @@ Debes entender que aprender programación es una carrera de fondo. Tendrás mejo
 
 [![Data Analyst Roadmap](https://img.shields.io/github/stars/dawoork/Data-Analyst-Roadmap?label=Data%20Analytics%20Roadmap&style=social)](https://github.com/dawoork/Data-Data-Analyst-Roadmap)
 
-## Fuentes de información
-En tu travesía hacia ser un Data Analyst, es vital saber dónde buscar y cómo aplicar información relevante. Plataformas como GitHub, Stack Overflow, Medium, Dev.to, Kaggle, y LinkedIn Learning son esenciales para aprender, resolver problemas y conectar con más personas que comparten nuestros intereses
+## Fuentes de Información
+Al avanzar en tu camino hacia convertirte en un Data Scientist, es crucial identificar recursos confiables para adquirir conocimientos, resolver dudas y conectarte con la comunidad. Sitios como Coursera, Kaggle, GitHub, Stack Overflow, Towards Data Science en Medium y ArXiv son fundamentales.
 
-* [GitHub](https://github.com/): Repositorio global de proyectos
-* [Stack Overflow](https://stackoverflow.com/): Comunidad de solución de problemas
-* [Medium](https://medium.com/): Artículos de tendencias e insights
-* [Dev.to](https://dev.to/): Comunidad y blogs de desarrolladores
-* [Kaggle](https://www.kaggle.com/): Competencias de datos y datasets
+* [Coursera](https://www.coursera.org): Cursos de universidades y empresas líderes.
+* [Kaggle](https://www.kaggle.com): Competencias de ciencia de datos, datasets y comunidad.
+* [GitHub](https://github.com): Hogar de proyectos de código abierto y colaboración.
+* [Stack Overflow](https://stackoverflow.com): Foro para preguntas y respuestas de programación y ciencia de datos.
+* [Towards Data Science](https://towardsdatascience.com): Para compartir y adquirir conocimientos en ciencia de datos.
+* [ArXiv](https://arxiv.org): Acceso a prepublicaciones de artículos científicos.
+* [Medium](https://medium.com/): Artículos de tendencias e insights.
+
+Utiliza estos recursos no solo para aprender nuevas habilidades y técnicas, sino también para mantenerte al tanto de las últimas tendencias y colaborar con otros profesionales en el campo.
+
 
 ## Ruta de aprendizaje
 Este roadmap combina recursos oficiales, contenidos creados por mí y recomendaciones de la comunidad, tal como indiqué inicialmente. *Es mi guía personal para iniciarte en Data Analytics y avanzar profesionalmente; no la única ni la mejor, pero sí una que considero útil.*
