@@ -148,8 +148,9 @@ Avanza en tu capacidad de contar historias a través de los datos con proyectos 
 #### ☁️ **Cloud Computing**
 * [**Introducción al Cloud Computing**](https://www.youtube.com/@dawoork) - Duración: X Minutos
 * [**Introducción al Big Data con Hadoop y Spark**](https://youtu.be/@dawoork) - Duración: X Minutos
-* [**Manejando Datos en la Nube con AWS**](https://youtu.be/@dawoork) - Duración: X Minutos
-* [**Azure para Ciencia de Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**AWS para Data**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Azure para  Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Google Cloud para  Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
 
 #### 📝 **Documentación y Guías Oficiales**
 * [**Hadoop Documentation**](https://hadoop.apache.org/docs/r3.2.1/) - Documentación oficial de Hadoop para procesamiento de grandes datasets.
