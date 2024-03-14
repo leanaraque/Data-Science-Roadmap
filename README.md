@@ -112,9 +112,9 @@ Para aquellos que buscan llevar sus habilidades de SQL a un nuevo nivel, este cu
 Preparé una serie de videos que te guiarán a través del análisis de datos y cómo visualizar tus descubrimientos efectivamente usando herramientas y bibliotecas líderes en la industria.
 
 * [**Explorando Datos con Python**](https://youtu.be/@dawoork) - Duración: X Minutos
-* [**Visualización de Datos: Principios y Prácticas**](https://youtu.be/@dawoork) - Duración: X Minutos
-* [**Creando Dashboards Interactivos con Tableau**](https://youtu.be/@dawoork) - Duración: X Minutos
-* [**Introducción a Power BI para Ciencia de Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**¿Qué es el Storytelling? Cómo contar historias con datos**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Tableau desde cero**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Power Bi desde cero**](https://youtu.be/@dawoork) - Duración: X Minutos
 
 #### 📘 **Documentación y Guías Oficiales**
 Encuentra documentación oficial y tutoriales para dominar las herramientas de visualización de datos y análisis.
