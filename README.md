@@ -48,7 +48,7 @@ Este roadmap combina recursos oficiales, contenidos creados por mí y recomendac
 #### 📚 **Contenido Esencial**
 A continuación, te presento una serie de videos que he creado, dirigidos a establecer una base sólida en matemáticas y estadísticas para la ciencia de datos.
 
-* [**Introducción a las Matemáticas para Ciencia de Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Matemáticas para Ciencia de Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
 * [**Estadísticas Descriptivas: Comprendiendo los Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
 * [**Estadísticas Inferenciales: Más Allá de los Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
 * [**Probabilidad y Estadística: Tomando Decisiones Basadas en Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
