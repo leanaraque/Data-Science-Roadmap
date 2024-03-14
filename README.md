@@ -64,27 +64,31 @@ Recursos oficiales y documentación para profundizar tus conocimientos en matem�
 
 
 
-## 2️⃣ Storytelling y herramientas de visualización
-**Objetivo:** Desarrollar habilidades para comunicar efectivamente insights de datos a través de storytelling y aprender a utilizar Power BI para visualizar datos y contar historias impactantes.
+## 2️⃣ Programación en Python para Ciencia de Datos
+**Objetivo:** Familiarizarte con Python, el lenguaje de programación predilecto en el campo de la ciencia de datos, y dominar las bibliotecas esenciales para el análisis y manipulación de datos.
 
-#### 📊 **Herramientas de Visualización de Datos**
-Comprende la importancia de la visualización de datos y aprende a usar herramientas avanzadas como Power BI y Tableau para crear representaciones visuales que comuniquen los hallazgos de manera efectiva.
+#### 📚 **Contenido Esencial**
+Aquí tienes una serie de videos que he preparado para introducirte en la programación con Python específicamente para ciencia de datos, cubriendo desde la sintaxis básica hasta el uso de bibliotecas poderosas.
 
-* [**¿Qué es el Storytelling? Cómo contar historias con datos**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
-* [**Power Bi desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
-* [**Tableau desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
+* [**Python para Ciencia de Datos: Primeros Pasos**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Manipulación de Datos con Pandas**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Visualización de Datos: Matplotlib y Seaborn**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Introducción a Scikit-learn para Modelado Predictivo**](https://youtu.be/@dawoork) - Duración: X Minutos
 
+#### 📘 **Documentación y Guías Oficiales**
+Recursos recomendados para profundizar en la programación de Python y el uso de sus bibliotecas en proyectos de ciencia de datos.
 
-#### 📝 **Documentación y Guías Oficiales: Storytelling con Datos**
-El arte de contar historias con datos es crucial para comunicar insights de manera que sean comprendidos y accionables. Estos recursos te ayudarán a dominar esta habilidad esencial.
+* [**Documentación Oficial de Python**](https://docs.python.org/3/) - La fuente definitiva para aprender y profundizar en Python.
+* [**Pandas Documentation**](https://pandas.pydata.org/pandas-docs/stable/index.html) - Documentación completa para el dominio de Pandas.
+* [**Matplotlib Tutorials**](https://matplotlib.org/stable/tutorials/index.html) - Tutoriales oficiales para empezar con la visualización de datos en Matplotlib.
+* [**Seaborn Gallery**](https://seaborn.pydata.org/examples/index.html) - Ejemplos y tutoriales para crear visualizaciones atractivas con Seaborn.
+* [**Scikit-learn User Guide**](https://scikit-learn.org/stable/user_guide.html) - Guía de usuario para empezar con el modelado predictivo utilizando Scikit-learn.
 
-* [**Storytelling para la Visualización de Datos**](https://www.storytellingwithdata.com/) - Consejos, ejemplos y mejores prácticas para contar historias con tus datos.
+#### 🌟 **Recurso Destacado para Proyectos Prácticos en Python**
+Potencia tu aprendizaje de Python para ciencia de datos mediante proyectos prácticos que te prepararán para desafíos reales y enriquecerán tu portafolio.
 
-#### 🌟 **Recurso Destacado para Power BI**
-Domina las herramientas que te ayudaran a contar las historia que los datos tienen...
+* [**Python para Ciencia de Datos - Proyectos Prácticos en Udemy**](https://www.udemy.com) - Sumérgete en el aprendizaje de Python aplicado a ciencia de datos a través de la realización de proyectos desde cero. Duración: X Horas.
 
-* [**Power Bi desde cero - 3 Proyectos Prácticos Udemy**](https://www.udemy.com) - Aprende mediante la práctica con proyectos reales. Duración: X Minutos.
-* [**Tableau desde cero - 3 Proyectos Prácticos Udemy**](https://www.udemy.com) - Aprende mediante la práctica con proyectos reales. Duración: X Minutos.
 
 ## 3️⃣ Programación Python o R
 **Objetivo:** Desarrollar habilidades de programación en Python o R para análisis de datos y visualización, aprovechando herramientas y bibliotecas especializadas.
