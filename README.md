@@ -272,9 +272,7 @@ Eleva tu comprensión de MLOps y liderazgo de proyectos a través de la ejecuci�
 Desarrolla tu portafolio con estos proyectos prácticos que cubren un amplio espectro de áreas en ciencia de datos, desde el análisis de datos hasta la implementación de modelos complejos.
 
 * [**Construyendo tu Portafolio de Data Science**](https://youtu.be/@dawoork) - Duración: X Minutos
-* [**Proyectos de Machine Learning de Principio a Fin**](https://youtu.be/@dawoork) - Duración: X Minutos
-* [**PNL: Aplicaciones Prácticas y Casos de Uso**](https://youtu.be/@dawoork) - Duración: X Minutos
-* [**Visión por Computadora: Desarrollando Aplicaciones Innovadoras**](https://youtu.be/@dawoork) - Duración: X Minutos
+*  [**Optimiza Tu Perfil de LinkedIn**](#) - Asegúrate de que tu perfil destaque y refleje tus habilidades y experiencia en análisis de datos
 
 #### 📘 **Documentación y Guías Oficiales**
 Fuentes para inspirarte y guiarte en el desarrollo de proyectos de ciencia de datos que resuelven problemas reales.
@@ -295,7 +293,7 @@ Refina tu habilidad para construir y presentar proyectos de ciencia de datos que
 #### 📚 **Contenido Esencial**
 Cursos diseñados para mejorar tu comunicación y colaboración en equipos de ciencia de datos, así como para prepararte para el proceso de entrevistas en ciencia de datos.
 
-* [**Comunicación Efectiva para Científicos de Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Comunicación Efectiva**](https://youtu.be/@dawoork) - Duración: X Minutos
 * [**Trabajo en Equipo y Colaboración en Proyectos de Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
 * [**Entendiendo el Negocio: Contexto y Aplicación de Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
 * [**Preparación para Entrevistas en Ciencia de Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
