@@ -1,5 +1,5 @@
-# 🤓 Data Data Analyst Roadmap 2024
-## Ruta de aprendizaje desde cero para convertirte en Data Analyst 2024
+# 🤓 Data Scientist Roadmap 2024
+## Ruta de aprendizaje desde cero para convertirte en Data Scientist 2024
 > ℹ️ He creado este repositorio para actualizarlo continuamente con recursos de aprendizaje de dentro y fuera de la comunidad.
 >  
 > ⚠️ **Tu Voz Importa:**  Este roadmap es un recurso vivo, enriquecido por las contribuciones y feedback de la comunidad. Cada sugerencia y mejora propuesta se toma en cuenta para asegurar que este recurso sea lo más valioso posible para todos. Anímate a compartir tus ideas y comentarios a través de [cambios](https://github.com/dawoork/Data-Analytics-Roadmap/discussions), hacer [pull request](https://github.com/dawoork/Data-Analytics-Roadmap/pulls) o crear una nueva [issue](https://github.com/dawoork/Data-Analytics-Roadmap/issues) para compartir tus recursos y así añadirlos al repo con intención de crear una gran guía de estudio.
