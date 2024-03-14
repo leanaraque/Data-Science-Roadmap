@@ -35,37 +35,33 @@ Utiliza estos recursos no solo para aprender nuevas habilidades y técnicas, sin
 
 
 ## Ruta de aprendizaje
-Este roadmap combina recursos oficiales, contenidos creados por mí y recomendaciones de la comunidad, tal como indiqué inicialmente. *Es mi guía personal para iniciarte en Data Analytics y avanzar profesionalmente; no la única ni la mejor, pero sí una que considero útil.*
+Este roadmap combina recursos oficiales, contenidos creados por mí y recomendaciones de la comunidad, tal como indiqué inicialmente. *Es mi guía personal para iniciarte en como Data Scientist y avanzar profesionalmente; no la única ni la mejor, pero sí una que considero útil.*
 
 
-🎓 **En mis [cursos Udemy/Data Anlyst](https://www.udemy.com) podrás encontrar una gran parte de los temas tratados en este roadmap.**
+🎓 **En mis [cursos Udemy/Data Scientist](https://www.udemy.com) podrás encontrar una gran parte de los temas tratados en este roadmap.**
 
 > 📈 **A continuación tendrás el roadmap formado por un listado de conocimientos a adquirir (así como distintos sitios web donde comenzar su aprendizaje). Este listado se irá actualizando y completando, incluso creando nuevos documentos para agrupar enlaces de interés.**
 
-## 1️⃣ Fundamentos y Herramientas Esenciales
-**Objetivo:** Adquirir una comprensión sólida de los principios básicos del análisis de datos y dominar las herramientas clave.
+## 1️⃣ Fundamentos Matemáticos y Estadísticos
+**Objetivo:** Obtener un dominio firme sobre los conceptos fundamentales de matemáticas y estadísticas, esenciales para cualquier aspirante a científico de datos.
 
-#### 📚 **Contenido Esencial (Mis Videos)**
-Aquí encontrarás videos creados por mí, diseñados para darte una introducción sólida y práctica al mundo del análisis de datos.
+#### 📚 **Contenido Esencial**
+A continuación, te presento una serie de videos que he creado, dirigidos a establecer una base sólida en matemáticas y estadísticas para la ciencia de datos.
 
-* [**¿Qué es el Análisis de datos?**](https://youtu.be/@dawoork) - Duración: X Minutos 
-* [**Estadística Básica para Data Analytics**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
-* [**Dominando Hojas de Cálculo**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
-* [**SQL desde Cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
+* [**Introducción a las Matemáticas para Ciencia de Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Estadísticas Descriptivas: Comprendiendo los Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Estadísticas Inferenciales: Más Allá de los Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Probabilidad y Estadística: Tomando Decisiones Basadas en Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
 
 #### 📘 **Documentación y Guías Oficiales**
-Fuentes oficiales y documentación para profundizar en las herramientas y tecnologías de análisis de datos.
+Recursos oficiales y documentación para profundizar tus conocimientos en matemáticas y estadísticas.
 
-* [**Documentación Oficial de Excel por Microsoft**](https://support.microsoft.com/es-es/excel) - Documentación completa para análisis de datos en Excel.
-* [**Centro de Aprendizaje de Google Sheets por Google**](https://support.google.com/a/users/answer/9282959?hl=es) - Tutoriales y recursos para dominar Google Sheets.
-* [**Tutorial de SQL en W3Schools**](https://www.w3schools.com/sql/default.asp) - Una guía interactiva para aprender SQL desde lo básico hasta consultas avanzadas.
-* [**NIST/SEMATECH e-Handbook of Statistical Methods**](https://www.itl.nist.gov/div898/handbook/) - Una guía exhaustiva de métodos estadísticos.
+* [**Wolfram MathWorld**](http://mathworld.wolfram.com/) - El recurso más completo de matemáticas en la web.
+* [**Online Stat Book**](http://onlinestatbook.com/2/index.html) - Un recurso interactivo para aprender estadísticas.
+* [**Khan Academy - Estadística y probabilidad**](https://es.khanacademy.org/math/statistics-probability) - Tutoriales y prácticas interactivas sobre estadísticas y probabilidad.
 * [**Seeing Theory**](https://seeing-theory.brown.edu/) - Una introducción visual a la probabilidad y estadística.
+* [**MIT OpenCourseWare - Linear Algebra**](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm) - Cursos completos de álgebra lineal del MIT.
 
-#### 💡 **Curso Recomendado - Impulsa Tu Aprendizaje**
-Para aquellos que buscan llevar sus habilidades de SQL a un nuevo nivel, este curso especializado en proyectos para tu portafolio vale la pena. 
-
-* [**🌟 SQL desde Cero - 3 Proyectos Prácticos en Udemy**](https://www.udemy.com) - Aprende mediante la práctica con proyectos reales. Duración: X Minutos.
 
 
 ## 2️⃣ Storytelling y herramientas de visualización
