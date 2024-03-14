@@ -18,7 +18,7 @@ Debes entender que aprender programación es una carrera de fondo. Tendrás mejo
 
 🤖 Si estas buscando un roadmap enfocado al Data Science.
 
-[![Data Science Roadmap](https://img.shields.io/github/stars/dawoork/Data-Science-Roadmap?label=Data%20Science%20Roadmap&style=social)](https://github.com/dawoork/Data-Science-Roadmap)**
+[![Data Science Roadmap](https://img.shields.io/github/stars/dawoork/Data-Science-Roadmap?label=Data%20Science%20Roadmap&style=social)](https://github.com/dawoork/Data-Science-Roadmap)
 
 ## Fuentes de información
 En tu travesía hacia ser un Data Analyst, es vital saber dónde buscar y cómo aplicar información relevante. Plataformas como GitHub, Stack Overflow, Medium, Dev.to, Kaggle, y LinkedIn Learning son esenciales para aprender, resolver problemas y conectar con más personas que comparten nuestros intereses
