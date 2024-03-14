@@ -73,7 +73,7 @@ Aquí tienes una serie de videos que he preparado para introducirte en la progra
 * [**Python para Ciencia de Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
 * [**Manipulación de Datos con Pandas**](https://youtu.be/@dawoork) - Duración: X Minutos
 * [**Visualización de Datos: Matplotlib y Seaborn**](https://youtu.be/@dawoork) - Duración: X Minutos
-* [**Introducción a Scikit-learn para Modelado Predictivo**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Scikit-learn para Modelado Predictivo**](https://youtu.be/@dawoork) - Duración: X Minutos
 
 #### 📘 **Documentación y Guías Oficiales**
 Recursos recomendados para profundizar en la programación de Python y el uso de sus bibliotecas en proyectos de ciencia de datos.
