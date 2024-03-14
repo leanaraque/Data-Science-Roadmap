@@ -306,11 +306,6 @@ Recursos y guías para mejorar tus habilidades blandas y tu preparación para en
 * [**Data Science Interview Questions**](https://www.dawoork.com/interview-questions) - Una colección de preguntas frecuentes en entrevistas de ciencia de datos y cómo abordarlas.
 * [**Understanding Business Context**](https://www.dawoork.com/business-context) - Aprende a aplicar conocimientos de ciencia de datos en contextos empresariales específicos.
 
-#### 🌟 **Recurso Destacado para el Desarrollo de Habilidades Blandas**
-Mejora tu capacidad para comunicar complejidades técnicas y colaborar eficazmente en equipos multidisciplinarios.
-
-* [**Desarrollando Habilidades Blandas para Científicos de Datos - Proyectos Prácticos en Udemy**](https://www.udemy.com) - Aprende a través de la práctica cómo mejorar tu comunicación, trabajo en equipo, y preparación para entrevistas, enfocándote en construir un perfil profesional sólido y a
-
 
 
 ## 🚀El Viaje Continuo en Ciencia de Datos
