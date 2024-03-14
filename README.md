@@ -70,7 +70,7 @@ Recursos oficiales y documentación para profundizar tus conocimientos en matem�
 #### 📚 **Contenido Esencial**
 Aquí tienes una serie de videos que he preparado para introducirte en la programación con Python específicamente para ciencia de datos, cubriendo desde la sintaxis básica hasta el uso de bibliotecas poderosas.
 
-* [**Python para Ciencia de Datos: Primeros Pasos**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Python para Ciencia de Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
 * [**Manipulación de Datos con Pandas**](https://youtu.be/@dawoork) - Duración: X Minutos
 * [**Visualización de Datos: Matplotlib y Seaborn**](https://youtu.be/@dawoork) - Duración: X Minutos
 * [**Introducción a Scikit-learn para Modelado Predictivo**](https://youtu.be/@dawoork) - Duración: X Minutos
