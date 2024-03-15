@@ -8,7 +8,11 @@
 
 <a href="https://github.com/dawoork/Data-Data-Analyst-Roadmap/blob/main/roadmap_data_analyst_alfa_v2.jpg"><img src="https://github.com/dawoork/Data-Data-Analyst-Roadmap/blob/main/roadmap_data_analyst_alfa_v3.jpg" style="height: 50%; width:50%;"/></a>
 
-**▶️ Antes de empezar te servirá de ayuda ver una introducción detallada donde explico el roadmap y el funcionamiento del repositorio en mi tutorial de [YouTube](https://youtu.be/@dawoork).**
+**▶️ Antes de empezar te servirá de ayuda ver una introducción detallada donde explico el roadmap y el funcionamiento del repositorio en mi tutorial de [YouTube](https://youtu.be/@dawoork).Tambien te dejo un video para que puedas entender las diferencias entre un Data Analyst y un Data Scientist </br> [Data Analyst o Data Scientist](https://youtu.be/@dawoork)**
+
+🤖 Si estas buscando un roadmap enfocado al Data Analyst
+
+[![Data Analyst Roadmap](https://img.shields.io/github/stars/dawoork/Data-Analyst-Roadmap?label=Data%20Analytics%20Roadmap&style=social)](https://github.com/dawoork/Data-Data-Analyst-Roadmap)
 
 ## Proceso de aprendizaje
 Debes entender que aprender programación es una carrera de fondo. Tendrás mejores y peores momentos, pero, ¿sabes qué? **¡Le pasa a todo el mundo!**. Al final del trayecto te espera un sector lleno de grandes oportunidades. Te recomiendo que te unas a nuestro servidor de Discord, donde compartimos recursos y nos ayudamos.
@@ -16,9 +20,6 @@ Debes entender que aprender programación es una carrera de fondo. Tendrás mejo
 [![Discord](https://img.shields.io/badge/Discord-Únete_a_nuestra_comunindad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](http://dawoork.com/discord)
 
 
-🤖 Si estas buscando un roadmap enfocado al Data Analyst
-
-[![Data Analyst Roadmap](https://img.shields.io/github/stars/dawoork/Data-Analyst-Roadmap?label=Data%20Analytics%20Roadmap&style=social)](https://github.com/dawoork/Data-Data-Analyst-Roadmap)
 
 ## Fuentes de Información
 Al avanzar en tu camino hacia convertirte en un Data Scientist, es crucial identificar recursos confiables para adquirir conocimientos, resolver dudas y conectarte con la comunidad. Sitios como Coursera, Kaggle, GitHub, Stack Overflow, Towards Data Science en Medium y ArXiv son fundamentales.
