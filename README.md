@@ -144,7 +144,6 @@ Avanza en tu capacidad de contar historias a través de los datos con proyectos 
 * [**¿Qué es el control de versiones y colaboración?**](https://www.youtube.com/@dawoork) - Duración: X Minutos
 * [**¿Qué es Git? cómo usarlo desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos
 * [**¿Qué es GitHub? cómo usarlo desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos
-* [**¿Qué es GitLab? cómo usarlo desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos
 
 #### 🔄 **Metodologías Ágiles**
 * [**¿Qué son las metodologías ágiles?**](https://www.youtube.com/@dawoork) - Duración: X Minutos
@@ -169,7 +168,6 @@ Avanza en tu capacidad de contar historias a través de los datos con proyectos 
 * [Microsoft Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
 * [Documentación Oficial de Git](https://git-scm.com/doc)
 * [Guía de Usuario de GitHub](https://docs.github.com/en/github/getting-started-with-github)
-* [Documentación Oficial de GitLab](https://docs.gitlab.com/)
 
 
 #### 🌟 **Recurso Destacado para Proyectos Prácticos en Big Data**
