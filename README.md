@@ -115,8 +115,8 @@ Para aquellos que buscan llevar sus habilidades de SQL a un nuevo nivel, este cu
 #### 📚 **Contenido Esencial**
 Preparé una serie de videos que te guiarán a través del análisis de datos y cómo visualizar tus descubrimientos efectivamente usando herramientas y bibliotecas líderes en la industria.
 
-* [**Explorando Datos con Python**](https://youtu.be/@dawoork) - Duración: X Minutos
 * [**¿Qué es el Storytelling? Cómo contar historias con datos**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Explorando Datos con Python Matplotlib y Seaborn**](https://youtu.be/@dawoork) - Duración: X Minutos
 * [**Tableau desde cero**](https://youtu.be/@dawoork) - Duración: X Minutos
 * [**Power Bi desde cero**](https://youtu.be/@dawoork) - Duración: X Minutos
 
