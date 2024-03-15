@@ -12,7 +12,7 @@
 
 🤖 Si estas buscando un roadmap enfocado al Data Analyst
 
-[![Data Analyst Roadmap](https://img.shields.io/github/stars/dawoork/Data-Analyst-Roadmap?label=Data%20Analytics%20Roadmap&style=social)](https://github.com/dawoork/Data-Data-Analyst-Roadmap)
+[![Data Analyst Roadmap](https://img.shields.io/github/stars/dawoork/Data-Analyst-Roadmap?label=Data%20Analyst%20Roadmap&style=social)](https://github.com/dawoork/Data-Data-Analyst-Roadmap)
 
 ## Proceso de aprendizaje
 Debes entender que aprender programación es una carrera de fondo. Tendrás mejores y peores momentos, pero, ¿sabes qué? **¡Le pasa a todo el mundo!**. Al final del trayecto te espera un sector lleno de grandes oportunidades. Te recomiendo que te unas a nuestro servidor de Discord, donde compartimos recursos y nos ayudamos.
