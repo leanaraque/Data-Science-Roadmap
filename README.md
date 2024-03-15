@@ -137,8 +137,8 @@ Avanza en tu capacidad de contar historias a través de los datos con proyectos 
 
 
 
-## 5️⃣ Control de versiones, Metodologías Ágiles, Big Data y Cloud Computing
-**Objetivo:** Ampliar conocimientos en control de versiones, colaboración, metodologías ágiles y habilidades en el manejo de grandes volúmenes de datos utilizando herramientas y plataformas de Big Data, así como aprender a gestionar datos en la nube.
+## 5️⃣ Control de versiones y Metodologías Ágiles.
+**Objetivo:** Ampliar conocimientos en control de versiones, colaboración, metodologías ágiles.
 
 #### 🔄 **Control de Versiones y Colaboración**
 * [**¿Qué es el control de versiones y colaboración?**](https://www.youtube.com/@dawoork) - Duración: X Minutos
@@ -149,23 +149,10 @@ Avanza en tu capacidad de contar historias a través de los datos con proyectos 
 * [**¿Qué son las metodologías ágiles?**](https://www.youtube.com/@dawoork) - Duración: X Minutos
 * [**¿Qué es Scrum y cómo aplicarlo?**](https://www.youtube.com/@dawoork) - Duración: X Minutos
 
-#### ☁️ **Cloud Computing**
-* [**Introducción al Cloud Computing**](https://www.youtube.com/@dawoork) - Duración: X Minutos
-* [**Introducción al Big Data con Hadoop y Spark**](https://youtu.be/@dawoork) - Duración: X Minutos
-* [**AWS para Data**](https://youtu.be/@dawoork) - Duración: X Minutos
-* [**Azure para  Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
-* [**Google Cloud para  Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
 
 #### 📝 **Documentación y Guías Oficiales**
-* [**Hadoop Documentation**](https://hadoop.apache.org/docs/r3.2.1/) - Documentación oficial de Hadoop para procesamiento de grandes datasets.
-* [**Spark Documentation**](https://spark.apache.org/docs/latest/) - Guía oficial para aprender a usar Spark en el procesamiento de datos.
-* [**AWS Big Data**](https://aws.amazon.com/big-data/) - Recursos y tutoriales para manejar Big Data en AWS.
-* [**Azure Data & AI**](https://azure.microsoft.com/en-us/overview/data-platform/) - Aprende a usar Azure para ciencia de datos y proyectos de IA.
-* [**Google Cloud Training**](https://cloud.google.com/training/data-ml) - Cursos y capacitaciones para dominar Google Cloud en proyectos de datos y machine learning.
+
 * [Scrum Guides](https://www.scrumguides.org/)
-* [AWS Cloud Practitioner Essentials](https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/)
-* [Google Cloud Documentation](https://cloud.google.com/docs)
-* [Microsoft Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
 * [Documentación Oficial de Git](https://git-scm.com/doc)
 * [Guía de Usuario de GitHub](https://docs.github.com/en/github/getting-started-with-github)
 
@@ -175,7 +162,28 @@ Desarrolla proyectos prácticos para afianzar tu comprensión de Big Data y la g
 
 * [**Big Data y Cloud - Proyectos Prácticos en Udemy**](https://www.udemy.com) - Aprende a manejar datasets masivos y a utilizar la nube para proyectos de ciencia de datos. Duración: X Horas.
 
-## 6️⃣ Machine Learning y Modelado Avanzado
+## 6️⃣ Big Data y Cloud Computing
+**Objetivo:** Ampliar conocimientos y habilidades en el manejo de grandes volúmenes de datos utilizando herramientas y plataformas de Big Data, así como aprender a gestionar datos en la nube.
+
+* [**Introducción al Cloud Computing**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**Introducción al Big Data con Hadoop y Spark**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**AWS para Data**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Azure para  Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Google Cloud para  Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
+
+
+#### 📝 **Documentación y Guías Oficiales**
+
+* [**Hadoop Documentation**](https://hadoop.apache.org/docs/r3.2.1/) 
+* [**Spark Documentation**](https://spark.apache.org/docs/latest/) 
+* [**AWS Big Data**](https://aws.amazon.com/big-data/) 
+* [**Azure Data & AI**](https://azure.microsoft.com/en-us/overview/data-platform/) 
+* [**Google Cloud Training**](https://cloud.google.com/training/data-ml)
+* [AWS Cloud Practitioner Essentials](https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/)
+* [Google Cloud Documentation](https://cloud.google.com/docs)
+* [Microsoft Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
+
+## 7️⃣ Machine Learning y Modelado Avanzado
 **Objetivo:** Dominar los fundamentos y técnicas avanzadas de Machine Learning para construir, evaluar y afinar modelos predictivos eficaces.
 
 #### 📚 **Contenido Esencial**
@@ -198,7 +206,7 @@ Desarrolla tu habilidad en Machine Learning aplicando lo aprendido en proyectos 
 
 * [**Machine Learning y Modelado Avanzado - Proyectos Prácticos en Udemy**](https://www.udemy.com) - Desde la regresión lineal hasta algoritmos avanzados, este curso te guía a través de la creación de proyectos de Machine Learning. Duración: X Horas.
 
-## 7️⃣ Deep Learning y Modelos Especializados
+## 8️⃣ Deep Learning y Modelos Especializados
 **Objetivo:** Explorar y dominar las técnicas de Deep Learning y modelos especializados para tareas avanzadas como el procesamiento del lenguaje natural, reconocimiento de imágenes y más.
 
 #### 📚 **Contenido Esencial**
@@ -222,7 +230,7 @@ Aprovecha la potencia del Deep Learning trabajando en proyectos prácticos que d
 
 * [**Deep Learning y Modelos Especializados - Proyectos Prácticos en Udemy**](https://www.udemy.com) - Aprende aplicando Deep Learning en proyectos reales, desde reconocimiento de imágenes hasta NLP. Duración: X Horas.
 
-## 8️⃣ Especialización y Habilidades Avanzadas
+## 9️⃣ Especialización y Habilidades Avanzadas
 **Objetivo:** Profundizar en áreas específicas de interés dentro de la ciencia de datos, como el Procesamiento del Lenguaje Natural (NLP), sistemas de recomendación, o visión por computadora, y dominar técnicas avanzadas de optimización de modelos.
 
 #### 📚 **Contenido Esencial**
@@ -245,7 +253,7 @@ Desarrolla tus habilidades en áreas específicas de la ciencia de datos trabaja
 
 * [**Especializaciones en Data Science - Proyectos Prácticos en Udemy**](https://www.udemy.com) - Profundiza en NLP, sistemas de recomendación, y visión por computadora con proyectos prácticos que enriquecerán tu portafolio. Duración: X Horas.
 
-## 9️⃣ Integración y Despliegue
+## 🔟 Integración y Despliegue
 **Objetivo:** Dominar los principios de MLOps para el eficiente despliegue y mantenimiento de modelos de machine learning en entornos de producción y liderar proyectos complejos de data science de inicio a fin.
 
 #### 📚 **Contenido Esencial**
@@ -269,7 +277,7 @@ Eleva tu comprensión de MLOps y liderazgo de proyectos a través de la ejecuci�
 
 * [**MLOps y Despliegue de ML - Proyectos Prácticos en Udemy**](https://www.udemy.com) - Aprende a desplegar y mantener modelos de ML en producción y lidera proyectos de principio a fin con proyectos prácticos que te prepararán para los retos reales del campo. Duración: X Horas.
 
-## 🔟 Proyectos del Mundo Real y Desarrollo de Portafolio
+## 1️⃣1️⃣ Proyectos del Mundo Real y Desarrollo de Portafolio
 **Objetivo:** Aplicar el conocimiento adquirido en proyectos reales para construir un portafolio sólido que demuestre tus habilidades en ciencia de datos y aprendizaje automático.
 
 #### 📚 **Contenido Esencial**
@@ -291,7 +299,7 @@ Refina tu habilidad para construir y presentar proyectos de ciencia de datos que
 
 * [**Desarrollo de Portafolio en Ciencia de Datos - Proyectos Prácticos en Udemy**](https://www.udemy.com) - Sumérgete en la creación de un portafolio de ciencia de datos con proyectos que abarcan desde el análisis exploratorio de datos hasta el despliegue de modelos avanzados,
 
-## 1️⃣1️⃣ Habilidades Blandas y Conocimiento del Dominio
+## 1️⃣2️⃣ Habilidades Blandas y Conocimiento del Dominio
 **Objetivo:** Fortalecer las habilidades de comunicación y colaboración, y profundizar en el conocimiento del dominio específico para resolver problemas de manera efectiva.
 
 #### 📚 **Contenido Esencial**
