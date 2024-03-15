@@ -103,7 +103,6 @@ Potencia tu aprendizaje de Python para ciencia de datos mediante proyectos prác
 Fuentes oficiales y documentación para profundizar en las herramientas y tecnologías de análisis de datos.
 
 * [**Tutorial de SQL en W3Schools**](https://www.w3schools.com/sql/default.asp) - Una guía interactiva para aprender SQL desde lo básico hasta consultas avanzadas.
-* 
 
 #### 💡 **Curso Recomendado - Impulsa Tu Aprendizaje**
 Para aquellos que buscan llevar sus habilidades de SQL a un nuevo nivel, este curso especializado en proyectos para tu portafolio vale la pena. 
