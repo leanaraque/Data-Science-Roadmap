@@ -354,7 +354,7 @@ Este es solo el comienzo de una carrera emocionante y desafiante en el mundo de 
 ## 👋 Hola, mi nombre es Leandro Araque.
 ### Data Analyst - Data Science
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC19UkylFnVp-B3fUvpBTCGA?style=social)](https://www.youtube.com/@dawoork?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7dVf0zms6w51iVWgRHuttQ?style=social)](https://www.youtube.com/@dawoork?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/dawoork?style=social)](https://www.twitch.tv/dawoork)
 [![Discord](https://img.shields.io/discord/1175063228993253456?style=social&label=Discord&logo=discord)](http://dawoork.com/discord)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lean_dawoork?style=social)](https://twitter.com/lean_dawoork)
