@@ -339,7 +339,7 @@ Te invitamos a formar parte de nuestra comunidad activa, donde podrás colaborar
 ### 🎥 **Proyectos en Vivo y Tutoriales en Twitch**
 Síguenos en Twitch para no perderte nuestras sesiones en vivo, donde abordamos proyectos reales de ciencia de datos, compartimos tutoriales y respondemos tus preguntas en tiempo real.
 
-* [**Síguenos en Twitch**](https://www.twitch.tv/dawoork) - Únete a nuestras transmisiones para aprender y participar en la comunidad de ciencia de datos en vivo.
+* [**Síguenos en Twitch**](https://www.twitch.tv/leanaraque) - Únete a nuestras transmisiones para aprender y participar en la comunidad de ciencia de datos en vivo.
 
 Este es solo el comienzo de una carrera emocionante y desafiante en el mundo de la ciencia de datos. Tu dedicación, curiosidad y pasión por el descubrimiento te llevarán lejos. Recuerda, cada nuevo desafío es una oportunidad para aprender y crecer. Continúa avanzando, expandiendo tus horizontes y compartiendo tus descubrimientos.
 
