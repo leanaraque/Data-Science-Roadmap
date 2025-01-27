@@ -1,4 +1,4 @@
-# 🤓 Data Scientist Roadmap 2024
+# 🤓 Data Scientist Roadmap 2025
 ## Ruta de aprendizaje desde cero para convertirte en Data Scientist 2024
 > ℹ️ He creado este repositorio para actualizarlo continuamente con recursos de aprendizaje de dentro y fuera de la comunidad.
 >  
